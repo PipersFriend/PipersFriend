@@ -1,0 +1,16 @@
+{
+  "theme": "dark",
+  "app_font": "Consolas",
+  "app_font_size": 10,
+  "accent_color": "#f59e0b",
+  "volume": 300,
+  "audio_start_sec": 3.0,
+  "default_instrument": "GHB",
+  "default_tempo": 90,
+  "default_time_signature": "4/4",
+  "default_tune_type": "March",
+  "default_composer": "Traditional",
+  "show_page_border": true,
+  "show_page_number": true,
+  "confirm_clear": true
+}
