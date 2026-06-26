@@ -1,0 +1,28 @@
+Copyright (c) 2026 Constantine Ferreira. All Rights Reserved.
+
+This software and its associated documentation files (the "Software") are
+completely proprietary to Constantine Ferreira ("the Author"). 
+
+1. RESTRICTIONS ON USE AND DISTRIBUTION
+Permission is hereby granted to view and fork the Software strictly
+within the boundaries and technical limitations of the GitHub platform,
+as required by the GitHub Terms of Service. 
+
+Except as explicitly permitted above, it is strictly prohibited for any person or entity to:
+- Copy, modify, merge, or create derivative works of the Software.
+- Publish, host, redistribute, sublicense, or sell the Software in any form, online or offline.
+
+2. COMMERCIAL LICENSING REQUIREMENT
+In order to legally distribute, redistribute, host, or sub-license this
+Software outside of personal, non-distributed viewing on GitHub, you must
+purchase a valid, written commercial distribution license directly from the
+Author. For licensing inquiries, terms, and pricing, please contact: ewanferreira@outlook.com.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
